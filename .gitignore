@@ -1,0 +1,5 @@
+/src/main/resources/static/
+**/node_modules/**
+/target/
+/.idea/
+/root/
